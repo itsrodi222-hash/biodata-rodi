@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Biodata Rodi</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 600px;
+      background: white;
+      margin: 50px auto;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      text-align: center;
+    }
+    h1 {
+      color: #333;
+    }
+    .info {
+      text-align: left;
+      margin-top: 20px;
+      line-height: 1.6;
+    }
+    .tag {
+      display: inline-block;
+      background: #007bff;
+      color: white;
+      padding: 5px 10px;
+      border-radius: 8px;
+      margin-top: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="container">
+    <h1>BIODATA DIRI</h1>
+    <div class="tag">Rodi</div>
+
+    <div class="info">
+      <p><b>Nama:</b> Rodi</p>
+      <p><b>Asal:</b> Tanjungbalai, Sumatera Utara, Indonesia</p>
+      <p><b>Tinggal sekarang:</b> Malaysia</p>
+      <p><b>Tahun lahir:</b> 2003</p>
+      <p><b>Hobi:</b> Berenang</p>
+
+      <hr>
+
+      <p><b>Tentang saya:</b><br>
+      Saya Rodi, berasal dari Tanjungbalai, Sumatera Utara. Saya memiliki hobi berenang dan tertarik dengan hal-hal teknologi serta dunia digital.
+      </p>
+    </div>
+  </div>
+
+</body>
+</html>
